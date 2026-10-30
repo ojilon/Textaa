@@ -5,6 +5,9 @@
     <string name="New">Nouveau</string>
     <string name="Save">Enregistrer</string>
     <string name="Save_As">Enregistrer sous</string>
+    <string name="Go_To">Aller à</string>
+    <string name="Go_To_Beginning">Début</string>
+    <string name="Go_To_End">Fin</string>
     <string name="Location">Emplacement : %s</string>
     <string name="Select">Sélectionner</string>
     <string name="File_Name">Nom du fichier</string>
@@ -111,4 +114,15 @@
     <string name="readOnlyDialogButtonContinue">Continuer en lecture seule</string>
     <string name="preferenceUseSimpleScrolling">Corriger le défilement erratique</string>
     <string name="preferenceUseSimpleScrollingDescription">Activez ceci si le texte saute de manière inattendue à la fin pendant le défilement</string>
+    <string name="Recovery_draft_found">Brouillon non enregistré</string>
+    <string name="Recovery_draft_message">Une version non enregistrée de « %1$s » datant du %2$s a été trouvée.</string>
+    <string name="Restore">Restaurer</string>
+    <string name="Discard_draft">Supprimer le brouillon</string>
+    <string name="External_change_detected">Modification externe détectée</string>
+    <string name="External_change_message">« %1$s » a été modifié en dehors de TextPad. Rechargez la version externe, remplacez-la par vos modifications, enregistrez vos modifications dans un autre fichier ou annulez pour continuer la modification.</string>
+    <string name="Overwrite">Écraser</string>
+    <string name="Reload">Recharger</string>
+    <string name="Reload_external_title">Recharger la version externe ?</string>
+    <string name="Reload_external_message">Vos modifications TextPad non enregistrées seront supprimées après le chargement réussi de la version externe.</string>
+    <string name="File_reloaded_after_external_change">Fichier rechargé après une modification externe</string>
 </resources>

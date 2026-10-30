@@ -6,6 +6,9 @@
     <string name="New">Новый</string>
     <string name="Save">Сохранить</string>
     <string name="Save_As">Сохранить Как</string>
+    <string name="Go_To">Перейти</string>
+    <string name="Go_To_Beginning">Начало</string>
+    <string name="Go_To_End">Конец</string>
     <string name="Location">Путь: %s</string>
     <string name="Select">Выбрать</string>
     <string name="File_Name">Имя файла:</string>
@@ -111,4 +114,15 @@
     <string name="readOnlyDialogButtonContinue">Продолжить в режиме только для чтения</string>
     <string name="preferenceUseSimpleScrolling">Исправить нестабильную прокрутку</string>
     <string name="preferenceUseSimpleScrollingDescription">Включите, если текст неожиданно перепрыгивает в конец при прокрутке</string>
+    <string name="Recovery_draft_found">Найден несохранённый черновик</string>
+    <string name="Recovery_draft_message">Найдена несохранённая версия «%1$s» от %2$s.</string>
+    <string name="Restore">Восстановить</string>
+    <string name="Discard_draft">Удалить черновик</string>
+    <string name="External_change_detected">Обнаружено внешнее изменение</string>
+    <string name="External_change_message">Файл «%1$s» изменён вне TextPad. Можно загрузить внешнюю версию, перезаписать её вашими правками, сохранить правки в другой файл или отменить действие и продолжить редактирование.</string>
+    <string name="Overwrite">Перезаписать</string>
+    <string name="Reload">Загрузить заново</string>
+    <string name="Reload_external_title">Загрузить внешнюю версию?</string>
+    <string name="Reload_external_message">Несохранённые правки TextPad будут удалены только после успешной загрузки внешней версии.</string>
+    <string name="File_reloaded_after_external_change">Файл обновлён после внешнего изменения</string>
 </resources>

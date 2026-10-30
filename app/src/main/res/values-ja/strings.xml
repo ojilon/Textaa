@@ -7,6 +7,9 @@
     <string name="New">新規作成</string>
     <string name="Save">上書き保存</string>
     <string name="Save_As">別名で保存</string>
+    <string name="Go_To">移動</string>
+    <string name="Go_To_Beginning">先頭</string>
+    <string name="Go_To_End">末尾</string>
     <string name="Location">パス: %s</string>
     <string name="Select">改行コードを選択</string>
     <string name="File_Name">ファイル名:</string>
@@ -111,4 +114,15 @@
     <string name="readOnlyDialogButtonContinue">読み取り専用で続行</string>
     <string name="preferenceUseSimpleScrolling">不安定なスクロールを修正</string>
     <string name="preferenceUseSimpleScrollingDescription">スクロール中にテキストが予期せず最後までジャンプする場合に有効にしてください</string>
+    <string name="Recovery_draft_found">未保存の復元用下書き</string>
+    <string name="Recovery_draft_message">%2$s に保存された「%1$s」の未保存バージョンが見つかりました。</string>
+    <string name="Restore">復元</string>
+    <string name="Discard_draft">下書きを破棄</string>
+    <string name="External_change_detected">外部での変更を検出しました</string>
+    <string name="External_change_message">「%1$s」はTextPadの外部で変更されました。外部バージョンを再読み込みするか、編集内容で上書きするか、別のファイルに保存するか、キャンセルして編集を続けてください。</string>
+    <string name="Overwrite">上書き</string>
+    <string name="Reload">再読み込み</string>
+    <string name="Reload_external_title">外部バージョンを再読み込みしますか？</string>
+    <string name="Reload_external_message">外部バージョンが正常に読み込まれた後、TextPadの未保存の編集内容は破棄されます。</string>
+    <string name="File_reloaded_after_external_change">外部での変更後にファイルを再読み込みしました</string>
 </resources>

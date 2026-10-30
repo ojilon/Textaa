@@ -7,6 +7,9 @@
     <string name="New">Новий</string>
     <string name="Save">Зберегти</string>
     <string name="Save_As">Зберегти як</string>
+    <string name="Go_To">Перейти</string>
+    <string name="Go_To_Beginning">Початок</string>
+    <string name="Go_To_End">Кінець</string>
     <string name="Location">Розташування: %s</string>
     <string name="Select">Обрати</string>
     <string name="File_Name">Назва файлу:</string>
@@ -109,4 +112,15 @@
     <string name="readOnlyDialogButtonContinue">Продовжити в режимі лише для читання</string>
 
 
+    <string name="Recovery_draft_found">Незбережена чернетка</string>
+    <string name="Recovery_draft_message">Знайдено незбережену версію «%1$s» від %2$s.</string>
+    <string name="Restore">Відновити</string>
+    <string name="Discard_draft">Видалити чернетку</string>
+    <string name="External_change_detected">Виявлено зовнішню зміну</string>
+    <string name="External_change_message">Файл «%1$s» змінено поза TextPad. Завантажте зовнішню версію, перезапишіть її своїми змінами, збережіть зміни в іншому файлі або скасуйте дію, щоб продовжити редагування.</string>
+    <string name="Overwrite">Перезаписати</string>
+    <string name="Reload">Завантажити знову</string>
+    <string name="Reload_external_title">Завантажити зовнішню версію?</string>
+    <string name="Reload_external_message">Незбережені зміни TextPad буде відкинуто після успішного завантаження зовнішньої версії.</string>
+    <string name="File_reloaded_after_external_change">Файл оновлено після зовнішньої зміни</string>
 </resources>
